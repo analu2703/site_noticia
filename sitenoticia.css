@@ -1,0 +1,55 @@
+.cabeçalho{
+    text-align: center;
+    background-color: rgb(141, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px ;
+}
+
+body{
+    background-color: rgba(141, 0, 0, 0.171);
+}
+
+.botoes1{
+    padding: 10px ;
+    text-decoration: none;
+    color: azure;
+    text-align: center;
+}
+
+.botoes2{
+    padding: 10px ;
+    text-decoration: none;
+    color: azure;
+    text-align: center;
+}
+
+.botoes3{
+    padding: 10px ;
+    text-decoration: none;
+    color: azure;
+    text-align: center;
+}
+
+.botoes4{
+    padding: 10px ;
+    text-decoration: none;
+    color: azure;
+    text-align: center;
+}
+
+.img{
+    text-align: center;
+
+}
+
+.img2{
+    text-align: center;
+
+}
+
+footer{
+    background-color: rgb(141, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px ;
+    text-align: center;
+}
